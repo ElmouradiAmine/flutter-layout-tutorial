@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        title: 'Flutter layojut demo',
+        title: 'Flutter layout demo',
         debugShowCheckedModeBanner: false,
         home: HomePage(),
     );
