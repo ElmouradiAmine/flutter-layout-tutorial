@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![](https://github.com/ElmouradiAmine/flutter-layout-tutorial/blob/master/screenshots/Capture%20d’écran%202019-05-08%20à%2019.10.15.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
